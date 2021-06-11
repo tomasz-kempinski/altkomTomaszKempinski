@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\code\altkomTomaszKempinski\bin\Debug\netcoreapp3.1\altkomTomaszKempinski.exe
+C:\Users\Student\Desktop\code\altkomTomaszKempinski\bin\Debug\netcoreapp3.1\altkomTomaszKempinski.deps.json
+C:\Users\Student\Desktop\code\altkomTomaszKempinski\bin\Debug\netcoreapp3.1\altkomTomaszKempinski.runtimeconfig.json
+C:\Users\Student\Desktop\code\altkomTomaszKempinski\bin\Debug\netcoreapp3.1\altkomTomaszKempinski.runtimeconfig.dev.json
+C:\Users\Student\Desktop\code\altkomTomaszKempinski\bin\Debug\netcoreapp3.1\altkomTomaszKempinski.dll
+C:\Users\Student\Desktop\code\altkomTomaszKempinski\bin\Debug\netcoreapp3.1\altkomTomaszKempinski.pdb
+C:\Users\Student\Desktop\code\altkomTomaszKempinski\obj\Debug\netcoreapp3.1\altkomTomaszKempinski.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\code\altkomTomaszKempinski\obj\Debug\netcoreapp3.1\altkomTomaszKempinski.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\code\altkomTomaszKempinski\obj\Debug\netcoreapp3.1\altkomTomaszKempinski.AssemblyInfo.cs
+C:\Users\Student\Desktop\code\altkomTomaszKempinski\obj\Debug\netcoreapp3.1\altkomTomaszKempinski.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\code\altkomTomaszKempinski\obj\Debug\netcoreapp3.1\altkomTomaszKempinski.dll
+C:\Users\Student\Desktop\code\altkomTomaszKempinski\obj\Debug\netcoreapp3.1\altkomTomaszKempinski.pdb
+C:\Users\Student\Desktop\code\altkomTomaszKempinski\obj\Debug\netcoreapp3.1\altkomTomaszKempinski.genruntimeconfig.cache
